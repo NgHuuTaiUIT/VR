@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ferrari j50
+* source:	https://sketchfab.com/3d-models/ferrari-j50-90d2f2fda3234493a1d64bf9fa1b9273
+* author:	hartwelkisaka (https://sketchfab.com/hartwelkisaka)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ferrari j50" (https://sketchfab.com/3d-models/ferrari-j50-90d2f2fda3234493a1d64bf9fa1b9273) by hartwelkisaka (https://sketchfab.com/hartwelkisaka) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

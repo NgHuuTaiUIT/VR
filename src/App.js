@@ -14,8 +14,8 @@ function App() {
       <h1>Example React component with <a href="https://github.com/hiukim/mind-ar-js" target="_blank">MindAR</a></h1>
 
       <div>
-	{!started && <button onClick={() => {setStarted(true)}}>Start Image Tracking</button>}
-	{started && <button onClick={() => {setStarted(false)}}>Stop Image Tracking</button>}
+	{/* {!started && <button onClick={() => {setStarted(true)}}>Start Image Tracking</button>}
+	{started && <button onClick={() => {setStarted(false)}}>Stop Image Tracking</button>} */}
 
   {!started && <button onClick={() => {setStarted(true)}}>Start Multi-Target</button>}
 	{started && <button onClick={() => {setStarted(false)}}>Stop Multi-Target</button>}
@@ -24,7 +24,7 @@ function App() {
       {started && (
 	<div className="container">
 	  <MindARViewer/>
-    <multiTarget/>
+    {/* <multiTarget/> */}
 	  <video></video>
 	</div>
 
